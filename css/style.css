@@ -1,0 +1,79 @@
+.Link{
+    color: white;
+}
+.Link:hover{
+    color: rgb(0, 4, 39);
+}
+.header-box{
+    position: absolute; top:50%; left: 20%;  
+}
+
+.button{
+    background-color: rgb(9, 159, 197);
+
+}
+.button:hover{
+    background-color: navy;
+}
+.background{
+   
+        min-height: 100vh;
+        background-image:linear-gradient( rgba(38, 58, 235, 0.4) ,rgba(73, 15, 233, 0.4) )  , url(../images/10.jpg);
+        background-position: center;
+        background-size: cover;
+}
+.background2{
+   
+        min-height: 50vh;
+        background-image:linear-gradient( rgba(38, 58, 235, 0.4) ,rgba(73, 15, 233, 0.4) )  , url(../images/10.jpg);
+        background-position: center;
+        background-size: cover;
+}
+      
+.read{
+color: rgb(2, 5, 41);
+}
+.read:hover{
+    color: white;
+}
+.card1{
+ background-color: rgb(235, 236, 240);
+}
+.card1:hover{
+    background-color: rgb(2, 22, 34);
+}
+.card2{
+ background-color: rgb(8, 127, 238);
+}
+.card2:hover{
+    background-color: rgb(2, 22, 34);
+}
+.background1{
+   
+    min-height: 100vh;
+    background-image:linear-gradient( rgba(38, 58, 235, 0.4) ,rgba(73, 15, 233, 0.4) )  , url(../images/9.jpg);
+    background-position: center;
+    background-size: cover;
+}
+footer{
+    background-color:#05184c;
+}
+.ff{
+    font-size: small;
+    text-align: center;
+}
+.wall{
+    min-height: 50vh;
+    background-image:linear-gradient( rgba(38, 58, 235, 0.4) ,rgba(73, 15, 233, 0.4) )  , url(../images/pexels-andrea-piacquadio-3768916-1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.blogg{
+    color: rgb(3, 3, 58);
+}
+.blogg:hover{
+    color: rgb(35, 130, 240);
+}
+ 
+  
+ 
